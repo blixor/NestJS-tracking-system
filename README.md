@@ -1,5 +1,3 @@
-# Vehicle Tracking System
-
 ## Dinâmica do sistema
 
 ```mermaid
